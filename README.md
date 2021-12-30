@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @TherminDev
+- 👋 Hi, I’m @SrPhantm
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently attending Highschool
